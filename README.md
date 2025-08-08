@@ -144,7 +144,7 @@ CO2\_Emissions\_Project/
 
 ## 🖼️ Sample Output Visualization
 **Model Performance Comparison**
-![Model Comparison](/images/download - 2025-08-07T230239.746.png)
+![Model Comparison](images/download - 2025-08-07T230239.746.png)
 
 ---
 
