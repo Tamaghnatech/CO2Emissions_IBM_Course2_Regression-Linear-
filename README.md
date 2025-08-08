@@ -148,10 +148,10 @@ CO2\_Emissions\_Project/
 ![Model Comparison](download%20-%202025-08-07T230239.746.png)
 
 ### 2️⃣ Distribution of CO₂ Emissions
-![CO₂ Emissions Histogram](histplot.png)
+![CO₂ Emissions Histogram](hisplot.png)
 
 ### 3️⃣ Fuel Consumption Distribution
-![Fuel Consumption Histogram](histplot1.png)
+![Fuel Consumption Histogram](hisplot1.png)
 
 
 
