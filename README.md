@@ -141,9 +141,18 @@ CO2\_Emissions\_Project/
 ```
 
 ---
-## 🖼️ Sample Output Visualization
-**Model Performance Comparison**  
+
+## 🖼️ Sample Output Visualizations
+
+### 1️⃣ Model Performance Comparison
 ![Model Comparison](download%20-%202025-08-07T230239.746.png)
+
+### 2️⃣ Distribution of CO₂ Emissions
+![CO₂ Emissions Histogram](histplot.png)
+
+### 3️⃣ Fuel Consumption Distribution
+![Fuel Consumption Histogram](histplot1.png)
+
 
 
 ---
