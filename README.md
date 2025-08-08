@@ -144,7 +144,7 @@ CO2\_Emissions\_Project/
 
 ## 🖼️ Sample Output Visualization
 **Model Performance Comparison**
-![Model Comparison](download - 2025-08-07T230239.746.png)
+![Model Comparison](/images/download - 2025-08-07T230239.746.png)
 
 ---
 
@@ -152,7 +152,7 @@ CO2\_Emissions\_Project/
 - ✅ All 7 required sections completed.
 - ✅ Three regression models implemented.
 - ✅ Preprocessing included categorical encoding + scaling.
-- ✅ Results clearly presented with visualizations.
+- ✅ Results presented with visualizations.
 - ✅ Insights and limitations discussed.
 - ✅ Suitable for both **academic submission** and **portfolio showcase**.
 
