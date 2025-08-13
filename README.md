@@ -1,5 +1,12 @@
-# 🚗 CO₂ Emissions Regression Modeling – IBM Machine Learning Course 2 Final Project
+# <img src="IBM%20Logo.png" alt="IBM Logo" width="40"/> CO₂ Emissions Regression Modeling — IBM ML Course 2 Final Project
 
+<p align="left">
+  <img src="certificate.png" alt="IBM Course Certificate" width="48%"/>
+  <img src="supervised-machine-learning-regression.png" alt="IBM Regression Badge" width="48%"/>
+</p>
+
+End-to-end regression of vehicle CO₂ emissions (g/km) using Canada emissions data.  
+Built in Google Colab with scikit-learn pipelines (Linear/Ridge/Lasso), strong cross-validation, and clean EDA.
 ## 📜 Project Overview
 This project is part of the **IBM Machine Learning Professional Certificate – Course 2: Regression** final submission requirement.  
 It involves performing **Exploratory Data Analysis (EDA)**, **feature preprocessing**, **regression modeling**, and **model comparison** to predict **vehicle CO₂ emissions** based on their specifications.
